@@ -16,7 +16,7 @@
                     "AppImageConfigName": "conda-env-kernel-config"
                 },
                 {
-                    "ImageName": "geo-runtime-kernel",
+                    "ImageName": "geo-runtime",
                     "AppImageConfigName": "geo-runtime-kernel-config"
                 }
             ]
