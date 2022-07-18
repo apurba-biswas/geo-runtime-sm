@@ -2,6 +2,8 @@
 
 This repo creates an docker image on AWS ECR then creates a sagemaker image
 
+## IMAGE_NAME=geo-runtime
+
 See [AWS repo](https://github.com/aws-samples/sagemaker-studio-custom-image-samples) for more examples.
 
 Below is the skeleton
