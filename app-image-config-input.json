@@ -1,0 +1,16 @@
+{
+    "AppImageConfigName": "geo-runtime-kernel-config",
+    "KernelGatewayImageConfig": {
+        "KernelSpecs": [
+            {
+                "Name": "geo-runtime",
+                "DisplayName": "Python [conda env: geo-runtime]"
+            }
+        ],
+        "FileSystemConfig": {
+            "MountPath": "/root",
+            "DefaultUid": 0,
+            "DefaultGid": 0
+        }
+    }
+}

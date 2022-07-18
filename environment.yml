@@ -1,0 +1,13 @@
+name: geo-runtime 
+channels:
+  - conda-forge
+dependencies:
+  - awscli
+  - boto3
+  - ipykernel
+  - coiled-runtime
+  - xarray
+  - rasterio
+  - rioxarray
+  - geopandas
+
