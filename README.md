@@ -24,7 +24,7 @@ coiled.create_software_environment(
 ```
 Include awscli, boto3, ipykernel in env build to for Sagemaker
 		
-2. Using aws cli, use the docker image in EC3 to create a sagemaker image
+2. Using aws cli, use the docker image in ECR to create a sagemaker image
 `aws --region ${REGION} sagemaker create-image`
     1. get sagemaker executioner role i.e. ROLE ARN from AWS console (in Sagemaker)
     2. provide the docker image in ECR as the base image
